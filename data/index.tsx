@@ -76,23 +76,23 @@ export const navItems = [
       des: "Transfer Ethereum through the ethereum blockchain with ease while saving transactions on the blockchain",
       img: "/coinz4.jpg",
       iconLists: ["Solidity", 'Web3', 'NextJs'],
-      link: "/https://coinz-kappa.vercel.app/",
+      link: "https://coinz-kappa.vercel.app/",
     },
     {
       id: 2,
       title: "Crownn",
       des: "A sinple e-commerce site with stripe payment integration",
-      img: "/p2.svg",
+      img: "/crowwn.jpg",
       iconLists: ["Stripe", 'ReactJs', 'Sanity'],
-      link: "/https://crownn-shop.vercel.app/",
+      link: "https://crownn-shop.vercel.app/",
     },
     {
       id: 3,
       title: "Keep",
       des: "A storage solution for you",
-      img: "/p3.svg",
+      img: "/keep.jpg",
       iconLists: ["Nextjs", 'Typescript', 'Appwrite'],
-      link: "/https://keep-lemon-two.vercel.app/",
+      link: "https://keep-lemon-two.vercel.app/",
     },
     {
       id: 4,
@@ -100,7 +100,7 @@ export const navItems = [
       des: "A mininalistic exchange site that converts over a hundred of the world's currencies using real-time rates.",
       img: "/curr.jpg",
       iconLists: ["Vite", 'Axios'],
-      link: "/https://currency-converter-nine-omega.vercel.app/",
+      link: "https://currency-converter-nine-omega.vercel.app/",
     },
   ];
   
