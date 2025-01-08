@@ -1,12 +1,11 @@
 import { About } from "@/components/About";
 import { FavoriteQuote } from "@/components/Favorite-quote";
 import Footer from "@/components/Footer";
-import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
-import { FaHome } from "react-icons/fa";
+
 
 export default function Home() {
   return (

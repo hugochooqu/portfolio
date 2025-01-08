@@ -1,10 +1,9 @@
 import React from "react";
 import { projects } from "@/data";
-import { GlareCard } from "./ui/GlareCard";
-import { FaLocationArrow } from "react-icons/fa";
+
 import Link from "next/link";
 import Image from "next/image";
-import { FaArrowRightFromBracket, FaArrowUpRightFromSquare } from "react-icons/fa6";
+import {  FaArrowUpRightFromSquare } from "react-icons/fa6";
 
 const RecentProjects = () => {
   return (

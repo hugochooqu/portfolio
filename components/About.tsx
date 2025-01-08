@@ -4,8 +4,8 @@ import React, { useState } from "react";
 import { WobbleCard } from "./ui/wobble-card";
 import MagicButton from "./ui/magicButton";
 import { IoCopyOutline } from "react-icons/io5";
-import Lottie from "react-lottie";
-import animationData from "@/data/confetti.json";
+// import Lottie from "react-lottie";
+// import animationData from "@/data/confetti.json";
 
 export function About() {
   const [copied, setCopied] = useState(false);
