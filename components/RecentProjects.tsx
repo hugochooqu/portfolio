@@ -21,7 +21,7 @@ const RecentProjects = () => {
       {/* Left Section */}
       <div className="text-white bg-black w-full lg:w-1/2 flex flex-col gap-6 lg:gap-8 p-6">
         <h1 className="font-bold text-2xl lg:text-4xl pt-4 text-purple flex items-center gap-2  ">
-        {title} {<Link href={link}><FaArrowUpRightFromSquare /></Link>}
+        {title} {<Link href={link} target='_blank'><FaArrowUpRightFromSquare /></Link>}
         </h1>
         <br className="hidden lg:block" />
         <p className="text-lg lg:text-3xl italic tracking-wide">{des}</p>
